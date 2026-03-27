@@ -16,10 +16,6 @@ venv/
 .mypy_cache/
 .ruff_cache/
 
-# Output artifacts
-outputs/*.md
-!outputs/.gitkeep
-
 # OS/editor noise
 .DS_Store
 Thumbs.db
